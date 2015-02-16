@@ -10,3 +10,13 @@ li.red-text {
 #special-list-item {
 	color: #AA2331;
 }
+#hello-button-row{
+    padding-top: 100px;
+}
+
+#hello-button{
+    width: 200px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
